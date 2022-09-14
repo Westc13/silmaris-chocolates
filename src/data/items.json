@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "title": "Dark Salted Caramel",
+    "price": 2.99,
+    "brand": "silmarils",
+    "colors": ["dark", "milk", "white"],
+    "imgUrl": {
+      "dark": "/imgs/dark-salted-caramel.jpg",
+      "milk": "/imgs/milk-salted-caramel.jpg",
+      "white": "/imgs/white-salted-caremel.jpg"
+    },
+    "featured": false,
+    "category": "caramel",
+    "breadcrumb": "Chocolates / Caramel",
+    "discount": 0
+  },
+  {
+    "id": 2,
+    "name": "Milk Salted Caramel",
+    "price": 2.99,
+    "imgUrl": "/imgs/milk-salted-caramel.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dark Mint",
+    "price": 2.99,
+    "imgUrl": "/imgs/dark-mint.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Milk Mint",
+    "price": 2.99,
+    "imgUrl": "/imgs/milk-mint.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dark Peanut Butter",
+    "price": 2.99,
+    "imgUrl": "/imgs/dark-peanut-butter.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Milk Peanut Butter",
+    "price": 2.99,
+    "imgUrl": "/imgs/milk-peanut-butter.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dark Coffee",
+    "price": 2.99,
+    "imgUrl": "/imgs/dark-coffee.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Milk Coffee",
+    "price": 2.99,
+    "imgUrl": "/imgs/milk-coffee.jpg"
+  }
+]
