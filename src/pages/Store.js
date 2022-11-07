@@ -7,7 +7,7 @@ function Store() {
       <h1>Store</h1>
       <ul>
         {storeItems.map((item) => (
-          <li>
+          <li key={item.id}>
             <StoreItem {...item} />
           </li>
         ))}
