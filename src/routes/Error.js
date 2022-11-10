@@ -1,6 +1,6 @@
-const ErrorPage = () => {
+const Error = () => {
   return (
-    <section className="ErrorPage">
+    <section className="Error">
       <div className="wrapper">
         <h2>404 Error</h2>
         <p>Looks like the page you are looking for does not exist.</p>
@@ -9,3 +9,5 @@ const ErrorPage = () => {
     </section>
   );
 };
+
+export default Error;
